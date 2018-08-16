@@ -1,0 +1,15 @@
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\bin\Debug\SudokuInterface.exe.config
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\bin\Debug\SudokuInterface.exe
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\bin\Debug\SudokuInterface.pdb
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.Main.resources
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.ErrorMessage.resources
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.Properties.Resources.resources
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.csproj.GenerateResource.Cache
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.exe
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.pdb
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.Guidance.resources
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\bin\Debug\SudokuInterface.exe.manifest
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\bin\Debug\SudokuInterface.application
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.exe.manifest
+C:\Users\Brian\source\repos\SudokuSolver\SudokuInterface\obj\Debug\SudokuInterface.application
